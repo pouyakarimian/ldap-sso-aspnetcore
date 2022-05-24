@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da04f705-3b65-47b2-a1f6-89b3fa0eae13": {
+      "ProjectGuid": "da04f705-3b65-47b2-a1f6-89b3fa0eae13",
+      "DisplayName": "Identity.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

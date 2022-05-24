@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qM2ZorhoQNNUMqx56IZXDUvuWmZc2d2+xfb83wYttbV3X1OHhNE2mpfNmm/lZfEdDnbfLMD1j+5/0UF5GvoiKw==",
+  "success": true,
+  "projectFilePath": "F:\\pouya\\sources\\ldap-sso-aspnetcore\\src\\Identity.Domain\\Identity.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p.karimian\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\p.karimian\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
